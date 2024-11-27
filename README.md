@@ -84,6 +84,9 @@ The **No Code Pipeline UI** is a highly customizable and reusable drag-and-drop 
 2. Drag and drop nodes to design your workflow.  
 3. Use the submit button to validate the pipeline and get feedback.  
 
+## Sample
+![sample](/sample.png)
+
 ## Key Technologies  
 
 - **React**: Core framework for building the UI.  
